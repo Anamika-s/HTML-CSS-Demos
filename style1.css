@@ -1,0 +1,33 @@
+body{
+  /* background-color: burlywood; */
+  background-image: url("image1.jfif");
+  background-repeat:  no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+h1, p , div{
+  background-color:red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: normal;
+
+}
+.class1
+{
+  background-color:brown;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 5px solid seagreen;
+}
+#id1 
+{
+  background-color: red;
+  width: 100px;
+  height: 200px;
+}
+div {
+  background-color: green;
+  /* opacity: 0.3; */
+  border: darkblue;
+  border-style:double;
+  border-width: 10px;
+  border-radius: 10pt;
+}
